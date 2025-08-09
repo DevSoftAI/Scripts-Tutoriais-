@@ -47,7 +47,7 @@ def get_reg(name):
 
 # Configura tipo e lista de vozes do gTTS
 set_reg('Speak Type', 'Speak Google.exe')
-set_reg('Speak List','en|es|pt')
+set_reg('Speak List','en|es|pt') #vozes ou idiomas separados com |
 
 def play_audio(file):
     try:
@@ -95,4 +95,5 @@ async def generate_and_play():
 # Loop assíncrono
 loop = asyncio.get_event_loop()
 loop.run_until_complete(generate_and_play())
+
 
