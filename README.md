@@ -38,9 +38,9 @@ Este repositório segue a licença **MIT** — você pode usar e modificar livre
 ---
 
 ## 💬 Contato
-📧 **E-mail:** devsoftaicompany@gmail.com
-🌐 **Site:** https://devsoft-ai.webnode.page
-📺 **YouTube:** [Canal do YouTube]youtube.com/channel/UCkDfVgU_3JG1UBmFTOVIRdg/
+📧 **E-mail:** [devsoftaicompany@gmail.com](mailto:devsoftaicompany@gmail.com)  
+🌐 **Site:** [https://devsoft-ai.webnode.page](https://devsoft-ai.webnode.page)  
+📺 **YouTube:** [Canal do YouTube](https://youtube.com/channel/UCkDfVgU_3JG1UBmFTOVIRdg)
 
 ---
 
