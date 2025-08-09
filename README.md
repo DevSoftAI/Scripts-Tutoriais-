@@ -11,6 +11,7 @@ Aqui você encontra **códigos prontos**, **exemplos práticos** e **materiais d
 - 🌐 **Web** — HTML, CSS e JavaScript para desenvolvimento web.
 - ⚙ **Automação** — Arduino, ESP8266, ESP32 e integração IoT.
 - 🎙 **TTS / STT** — Exemplos de uso de síntese e reconhecimento de voz.
+- 🧠 **Inteligência Artificial** — Redes neurais, Machine Learning e **LLMs** (Large Language Models) para processamento de linguagem natural.
 
 ---
 
