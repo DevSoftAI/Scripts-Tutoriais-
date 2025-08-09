@@ -39,8 +39,8 @@ Este repositório segue a licença **MIT** — você pode usar e modificar livre
 
 ## 💬 Contato
 📧 **E-mail:** suporte@devsoftai.com  
-🌐 **Site:** [www.devsoftai.com]([https://www.devsoftai.com](https://devsoft-ai.webnode.page/))  
-📺 **YouTube:** [Canal DevSoft AI](https://www.youtube.com/@devsoftai)  
+🌐 **Site:** [https://devsoft-ai.webnode.page](https://devsoft-ai.webnode.page)  
+📺 **YouTube:** [Canal DevSoft AI](youtube.com/channel/UCkDfVgU_3JG1UBmFTOVIRdg/)  
 
 ---
 
