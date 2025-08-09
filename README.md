@@ -17,7 +17,7 @@ Aqui você encontra **códigos prontos**, **exemplos práticos** e **materiais d
 
 ## 🛠 Tecnologias utilizadas
 Este repositório aborda exemplos com:
-- Python 3.x
+- Python 3.10.11
 - VB.NET / C#
 - Google Cloud API
 - Arduino IDE
@@ -38,7 +38,7 @@ Este repositório segue a licença **MIT** — você pode usar e modificar livre
 ---
 
 ## 💬 Contato
-📧 **E-mail:** suporte@devsoftai.com  
+📧 **E-mail:** devsoftaicompany@gmail.com
 🌐 **Site:** [https://devsoft-ai.webnode.page](https://devsoft-ai.webnode.page)  
 📺 **YouTube:** [Canal DevSoft AI](youtube.com/channel/UCkDfVgU_3JG1UBmFTOVIRdg/)  
 
